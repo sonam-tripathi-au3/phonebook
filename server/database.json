@@ -1,0 +1,38 @@
+[
+{
+    "name": "Sonam",
+    "location": "Lucknow",
+    "contact": 9995743890
+  },
+  {
+    "name": "Abhinav",
+    "location": "Delhi",
+    "contact": 9995743855
+  },
+  {
+    "name": "Aishwarya",
+    "location": "Kanpur",
+    "contact": 9995743844
+  },
+  {
+    "name": "Shubham",
+    "location": "Mumbai",
+    "contact": 9995743833
+  },
+  {
+    "name": "Praveen",
+    "location": "Allahabad",
+    "contact": 9955743890
+  },
+  {
+    "name": "Ankita",
+    "location": "Banglore",
+    "contact": 9495743890
+  },
+  {
+    "name": "Vaibhav",
+    "location": "Pune",
+    "contact": 9995743898
+  }
+]
+    
