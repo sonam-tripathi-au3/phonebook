@@ -1,0 +1,12 @@
+table{
+    margin-top: 3%;
+    width: 100% 
+}
+
+tr{
+   cursor: pointer;
+}
+
+.btn-group{
+  margin: 0 40%
+}
